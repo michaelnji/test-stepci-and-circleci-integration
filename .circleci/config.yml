@@ -10,7 +10,7 @@ jobs:
       - node/install-packages:
           pkg-manager: npm
       - run:
-          command: npm install -g stepci
+          command: npm install -d stepci
           name: install StepCI
       - run:
           command: npx stepci run workflow.yml
