@@ -7,14 +7,9 @@
   },
   "author": "",
   "dependencies": {
-   
+    "unoid": "^1.0.0"
   },
-  "devDependencies": {
-   
-  },
-  "scripts": {
-   
-  },
+  "scripts": {},
   "trustedDependencies": [
     "@biomejs/biome",
     "esbuild"
