@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "private": false,
+  "description": "no description was provided",
+  "repository": {
+    "url": "https://github.com/michaelnji/test-stepci-and-circleci-integration"
+  },
+  "author": "",
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+   
+  },
+  "scripts": {
+   
+  },
+  "trustedDependencies": [
+    "@biomejs/biome",
+    "esbuild"
+  ]
+}
